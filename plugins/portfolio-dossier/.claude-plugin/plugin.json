@@ -1,0 +1,7 @@
+{
+  "name": "portfolio-dossier",
+  "version": "1.0.0",
+  "description": "Research a project and package screenshots, diagrams, facts and story into one folder for a portfolio site.",
+  "author": { "name": "Jewel Chowdhury", "url": "https://github.com/DarkXAce01" },
+  "license": "MIT"
+}
